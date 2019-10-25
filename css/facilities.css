@@ -1,0 +1,133 @@
+body {
+  text-align: center;
+  background: #656868 url('../img/bg.jpg') top center no-repeat fixed;
+  margin-top:30px;
+  margin-bottom:0px;
+  color:#333333;
+  
+}
+A:link {
+  COLOR: #000000; text-decoration: underline
+}
+A:visited {
+  COLOR: #000000; text-decoration: underline
+}
+A:active {
+  COLOR: #000000; text-decoration: underline
+}
+A:hover {
+  COLOR: #000000; text-decoration: none
+}
+
+
+#page_wrapper {
+  background: #F3E7A9 url('../img/page_bg.jpg') top left;
+  margin-left: auto; 
+  margin-right: auto;
+  width: 640px;
+  text-align: left;
+  border: 4px solid #F4F4EE; height:1000px;
+}
+
+#page_header {
+  height: 140px;
+  background: red url('../img/2.jpg') top left no-repeat;
+}  
+
+#page_header h1 {
+  padding-top:30px;
+  padding-left: 20px;
+  font-family: verdana, helvetica, sans-serif;
+  font-size:46px;
+  font-weight:bold;  
+  color: #FCF8E3;
+  letter-spacing: -1px;
+  margin:0px;
+}
+#page_header h2 {
+  padding-top:0px;
+  padding-left: 20px;
+  font-family: verdana, helvetica, sans-serif;
+  font-size:34px;
+  font-weight:bold;  
+  color: #E2D179;
+  margin:0px;  
+}
+#menu_bar {
+  height:30px;
+  background: #A5A162 url('../img/menu_bg.jpg') top left no-repeat;
+}
+
+#navcontainer ul
+{
+padding-left: 0;
+margin-left: 0;
+margin-top:5px;
+background-color: transparent;
+color:#F3E7A9;
+float: left;
+width: 100%;
+font-family: verdana, helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+}
+
+#navcontainer ul li { display: inline; }
+
+#navcontainer ul li a
+{
+padding: 0.2em 1em;
+background-color: transparent;
+color: #F3E7A9;
+text-decoration: none;
+float: left;
+border-right: 1px solid #BBB774;
+}
+
+#navcontainer ul li a:hover
+{
+background-color: transparent;
+color: #fff;
+}
+
+
+
+#menu_bar {
+  height:30px;
+  background: #A5A162 url('../img/menu_bg.jpg') top left no-repeat;
+}
+
+#navcontainer ul
+{
+padding-left: 0;
+margin-left: 0;
+margin-top:5px;
+background-color: transparent;
+color:#F3E7A9;
+float: left;
+width: 100%;
+font-family: verdana, helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+}
+
+#navcontainer ul li { display: inline; }
+
+#navcontainer ul li a
+{
+padding: 0.2em 1em;
+background-color: transparent;
+color: #F3E7A9;
+text-decoration: none;
+float: left;
+border-right: 1px solid #BBB774;
+}
+
+#navcontainer ul li a:hover
+{
+background-color: transparent;
+color: #fff;
+}
+
+
+
